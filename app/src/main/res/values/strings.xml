@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Color Tap</string>
+    <string name="admob_id">ca-app-pub-4104765132081981~8846387157</string>
+    <string name="one_player">One Player\nNormal</string>
+    <string name="one_player_advanced">One Player\nAdvanced</string>
+    <string name="two_players">Two Players\nNormal</string>
+    <string name="two_players_advanced">Two Players\nAdvanced</string>
+    <string name="records">Records</string>
+    <string name="version_info">Color Tap v2.0</string>
+    <string name="developer_info">Dev by iGabetoApps</string>
+    <string name="play">Play</string>
+    <string name="time">Time:</string>
+    <string name="points">Points:</string>
+    <string name="winner">Winner</string>
+    <string name="loser">Loser</string>
+    <string name="draw">Draw</string>
+    <string name="create_user">Create new user...</string>
+    <string name="delete">Delete</string>
+    <string name="deleteText">Are you sure you want to delete player</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
